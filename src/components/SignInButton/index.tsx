@@ -13,7 +13,6 @@ export function SignInButton() {
       <FaGithub color="#04d361" />
       Alex Muniz
       <FiX color="#737380" className={styles.closeIcon} />
-      {console.log("está logado")}
     </button>
   ) : (
     <button
